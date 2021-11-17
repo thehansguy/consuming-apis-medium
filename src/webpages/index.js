@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter, Routes, Route, Link, Outlet } from "react-router-dom";
 
-import Home from "./home";
-import User from "./user";
+import Home from "./Home";
+import User from "./User";
 
 const Webpages = () => {
   return (
